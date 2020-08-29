@@ -8,3 +8,5 @@ The predictions are averaged together, and fed forward through the prediction al
 This is done for seven days, but can be adjusted to predict more or less. 
 
 [![IMAGE FOR VIDEO](https://i.ytimg.com/vi/0oPGMa4ihvI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCS_5CLu1NxJ0ELxpHDGQdGx2k2Ug)](https://youtu.be/0oPGMa4ihvI)
+
+The above PREDICTION MODEL is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.
