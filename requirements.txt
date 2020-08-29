@@ -6,7 +6,7 @@ requests==2.24.0
 pandas==1.1.0
 time==1.9.0
 random==1.0.2
-math==1.18.1
+# math==1.18.1
 sqlite3==3.32.3
 numpy
 math
